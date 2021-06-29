@@ -1,0 +1,18 @@
+{
+  "author": "seraphinush",
+  "conflicts": ["auto-loot-old","loot","reserve-loot"],
+  "description": "tera-toolbox module to loot items automatically",
+  "disableAutoUpdate": false,
+  "donationUrl": "https://www.paypal.me/seraphinush",
+  "name": "auto-loot",
+  "options": {
+    "niceName": "auto-loot",
+    "reloadable": true,
+    "settingsVersion": 1,
+    "settingsFile": "config.json",
+    "settingsMigrator": "settings.js"
+  },
+  "servers": ["https://raw.githubusercontent.com/seraphinush-gaming/auto-loot/master/"],
+  "supportUrl": "https://github.com/seraphinush-gaming/auto-loot/blob/master/README.md",
+  "version": "1.00.00.v107.02"
+}
